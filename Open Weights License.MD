@@ -2,9 +2,9 @@
 
 This is an Open Weights permissive license for NNWs.
 
-#Open Weights Permissive License
+# Open Weights Permissive License
 
-#Version 1.0.0
+# Version 1.0.0
 
 ## Scope. 
 This license covers any AI-specific elements, such as neural networks or any other type of machine learning model, artificial intelligence model, software, data, neural network, or other material that is designated as being available under this license.
