@@ -23,6 +23,10 @@ Also, we do not believe that a definition of Open Weights needs to import subjec
 
 We believe that this definition should be developed in the open, much like open source software itself. Therefore this definition and license will be published on GitHub and the community will be invited to improve it.
 
+## Non-Permissive Licensing
+
+We have provided a model license for permissive licensing that meets the Open Weights definition. We do not plan to release a "copyleft" or "sharealike" license, because we do not think these models translate well to NNWs.
+
 The text in this repository is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). It is published by [OSS Capital](https://oss.capital/) in June, 2023. If you change this document, please make clear that you do not speak for OSS Capital. If you contribute to this project, your contributions will also be under CC0.
 
 Interactions for this project are subject to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
