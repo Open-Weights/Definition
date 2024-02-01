@@ -15,6 +15,5 @@ The following are requirements to meet the Open Weights definition:
 
 The following are optional.
 - The data used to train the model may be provided under open data licensing terms.
-- The software used to train the model may be provided under a license meeting the Open Source Definition.
 - Software provided as a user interface to the model may be provided under a license meeting the Open Source Definition.
 - Software suitable to further train the model may be provided under a license meeting the Open Source Definition.
