@@ -23,7 +23,7 @@ Also, we do not believe that a definition of Open Weights needs to import subjec
 
 We believe that this definition should be developed in the open, much like open source software itself. Therefore this definition and license will be published on GitHub and the community will be invited to improve it.
 
-## Permisisve and Non-Permissive Licensing
+## Permissive and Non-Permissive Licensing
 
 We have provided a model license for permissive licensing that meets the Open Weights definition. We do not plan to release a "copyleft" or "sharealike" license, because we do not think these models translate well to NNWs.
 
