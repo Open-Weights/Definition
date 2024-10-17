@@ -15,18 +15,18 @@ Open source's foundational freedoms–to run, study, redistribute, and modify so
 
 It is critical for the industry to develop and standardize on "Open Weights" licensing frameworks. These frameworks should align closely with the founding Four Freedoms of free software but should be specifically tailored for NNWs.
 
-We need a standard for Open Weights that recognizes the unique nature of NNWs and provides legal and practical guidelines for their use, distribution and sharing. This requires collaboration from the entire AI community, including developers, researchers, legal experts, and regulatory bodies.
+The technology community needs a standard for Open Weights that recognizes the unique nature of NNWs and provides legal and practical guidelines for their use, distribution and sharing. This requires collaboration from the entire AI community, including developers, researchers, legal experts, and regulatory bodies.
 
-We do not believe that we should abdicate this question to governments. They are unlikely to come up with consistent or useful standards. We would like to follow the path of open source software to create voluntary community standards. We also want to avoid AI being banned, or innovation outlawed, because governments perceive AI as a threat to their power.
+It will not work to abdicate this definition to governments. After two years of rhetoric, they have not come up with consistent or useful standards. The Open Weights definition follows the path of open source software movement, to create voluntary community standards. This approach is not intended to be inconsistent with regulation. If a consensus on regulatory standards emerges, the defintion may need to be re-examined for consistency with them.
 
-Also, we do not believe that a definition of Open Weights needs to import subjects such as privacy, human rights, or clearance of data inputs into its licensing principles. We know those are important topics, but they will take time to figure out. We are focused instead on the original idea of openness, and preserving the original goals of Freedom Zero of free software and open source. We encourage others to develop their own standards for restrictions and ethical licensing, and to participate in the legislative process to set the standards of society for proper use of AI, the information used to train it, and the information it produces. Also, we applaud those communities who are working on their own definitions. At [OSS Capital](https://oss.capital/), we have committed to sponsor the Open Source Initiative’s efforts in this regard, and we hope our efforts will dovetail. But we believe time is of the essence.
+Also, a definition of Open Weights should not import subjects such as privacy, human rights, or clearance of data inputs into its licensing principles. Those are important topics, but they will take time to figure out and are not easily addressed with licensing terms. This definition focuses instead on the original idea of openness, and preserving the original goals of Freedom Zero of free software and open source. Others will create their own standards for restrictions and ethical licensing, and to participate in the legislative process to set the standards of society for proper use of AI, the information used to train it, and the information it produces.  
 
-We believe that this definition should be developed in the open, much like open source software itself. Therefore this definition and license will be published on GitHub and the community will be invited to improve it.
+This definition should be developed in the open, much like open source software itself. Therefore this definition and license will be published on GitHub and the community will be invited to improve it.
 
-## Permisisve and Non-Permissive Licensing
+## Permissive and Non-Permissive Licensing
 
-We have provided a model license for permissive licensing that meets the Open Weights definition. We do not plan to release a "copyleft" or "sharealike" license, because we do not think these models translate well to NNWs.
+This repository also contains a model license for permissive licensing that meets the Open Weights definition. There is no plan to release a "copyleft" or "sharealike" license, because these models cannot translate well to NNWs.
 
-The text in this repository is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). It is published by [OSS Capital](https://oss.capital/) in June, 2023. If you change this document, please make clear that you do not speak for OSS Capital. If you contribute to this project, your contributions will also be under CC0.
+The text in this repository is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). If you contribute to this project, your contributions will also be under CC0.
 
 Interactions for this project are subject to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
