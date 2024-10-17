@@ -13,7 +13,7 @@ This license covers any AI-specific elements, such as neural networks or any oth
 The licensor grants you the rights to do everything with the licensed elements that would otherwise infringe that contributor’s intellectual property rights, including without limitation copyright, patent rights, and trade secret rights. However, this license grants you no trademark or publicity rights.
 
 ## Notices 
-If you modify the licensed elements and provide them to others, you may apply terms of your choice; however, if you provide any of the licensed elements to others in a manner that requires the license granted above, you must inform the recipient that the elements are available under this license, either by providing a copy of this license, or a reference to [URL TBD]. 
+If you modify the licensed elements and provide them to others, you may apply terms of your choice; however, if you provide any of the licensed elements to others in a manner that requires the license granted above, you must inform the recipient that the elements are available under this license, either by providing a copy of this license, or a reference to https://github.com/Open-Weights/Definition/blob/main/Open%20Weights%20License.MD. 
 
 ## No Liability
 As far as the law allows, each element  is provided as is, without any warranty or condition, and the licensor will not be liable to anyone for any damages related to any licensed element or this license, under any kind of legal claim. If local law prohibits this limitation of liability, or disclaimer of warranty or condition, this license will be null and void.
